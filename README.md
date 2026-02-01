@@ -1,0 +1,86 @@
+<h1 align="center">Hi 👋, I'm Vansh Pal</h1>
+
+<h3 align="center">
+Frontend Developer • Data Analyst • IIT Madras BS Student
+</h3>
+
+<p align="center">
+  <a href="mailto:nk555pal@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/vansh-pal-304871316" target="_blank">LinkedIn</a> •
+  <a href="https://discord.com/users/vansh_0987" target="_blank">Discord</a>
+</p>
+
+---
+
+<h2>👨‍💻 About Me</h2>
+
+- 🎓 BS Student at **IIT Madras**
+- 💻 **Frontend Developer** with strong UI/UX sense
+- 📊 **Data Analyst** focused on insights & visualization
+- 🤖 Exploring **AI, Automation & Machine Learning (Basics)**
+
+---
+
+<h2>🛠 Core Tech Stack</h2>
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="45"/>
+  </a>
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" width="45"/>
+  </a>
+</p>
+
+---
+
+<h2>📊 Data & Analytics</h2>
+
+- **Python**: NumPy, Pandas, Matplotlib  
+- **Data Visualization**: Power BI, Tableau, Excel  
+- **Databases**: SQL, MySQL, MongoDB  
+- **Data Cleaning & Preprocessing**
+
+---
+
+<h2>🎨 UI / UX & Frontend</h2>
+
+- Responsive Web Design  
+- UI/UX Fundamentals  
+- Clean, accessible interfaces  
+
+---
+
+<h2>🤖 AI & Automation</h2>
+
+- Generative AI (OpenAI APIs, ChatGPT)
+- Machine Learning (Basics)
+- Automation Scripts
+- Jupyter Notebook & Google Colab
+
+---
+
+<h2>📫 Contact</h2>
+
+- 📧 **Email**: nk555pal@gmail.com  
+- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/vansh-pal-304871316">vansh-pal</a>  
+- 🎮 **Discord**: vansh_0987  
+
