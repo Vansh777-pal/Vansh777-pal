@@ -5,6 +5,13 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
 </h3>
 
 <p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Data+Analyst;IIT+Madras+BS+Student;AI+%26+Automation+Enthusiast" 
+  />
+</p>
+
+
+<p align="center">
   <a href="mailto:nk555pal@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/vansh-pal-304871316" target="_blank">LinkedIn</a> •
   <a href="https://discord.com/users/vansh_0987" target="_blank">Discord</a>
@@ -51,6 +58,18 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
 </p>
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh777-pal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh777-pal&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh777-pal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <h2>📊 Data & Analytics</h2>
 
