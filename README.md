@@ -31,6 +31,7 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
 <h2>🛠 Core Tech Stack</h2>
 
 <p align="left">
+  <!-- Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="45"/>
   </a>
@@ -40,15 +41,30 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" width="45"/>
   </a>
+
+  <!-- Programming -->
   <a href="https://www.python.org/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" width="45"/>
   </a>
+  <a href="https://www.java.com/en/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="45"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" width="45"/>
+  </a>
+  <a href="https://cran.r-project.org/manuals.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" width="45"/>
+  </a>
+
+  <!-- Data & DB -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
   </a>
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
   </a>
+
+  <!-- Tools -->
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="45"/>
   </a>
