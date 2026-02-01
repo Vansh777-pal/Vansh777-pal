@@ -59,12 +59,15 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
 
 ---
 
-## 📈 GitHub Stats
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vansh777-pal&show_icons=true&theme=tokyonight&hide_border=true"
-  height="160"
-/>
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/Vansh777-pal?template=classic&languages=1&activity=1&achievements=1&theme=tokyonight"
+  />
+</p>
+
 
 
 
