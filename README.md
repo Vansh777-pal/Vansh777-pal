@@ -61,10 +61,15 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh777-pal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh777-pal&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vansh777-pal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="160"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh777-pal&layout=compact&theme=tokyonight&hide_border=true" />
