@@ -6,7 +6,7 @@ Frontend Developer • Data Analyst • IIT Madras BS Student
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Data+Analyst;IIT+Madras+BS+Student;AI+%26+Automation+Enthusiast" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Analyst;IIT+Madras+BS+Student;AI+%26+Automation+Enthusiast" 
   />
 </p>
 
